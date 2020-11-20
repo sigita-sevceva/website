@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sigita-sevceva.github.io/website/"
 languageCode = "en-us"
 title = "Deep Design"
 theme = "somrat"
