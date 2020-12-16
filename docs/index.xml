@@ -6,7 +6,16 @@
     <description>Recent content on Just Some Digital Humanities Research Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2020 12:46:48 +0200</lastBuildDate><atom:link href="https://sigita-sevceva.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 20:36:11 +0200</lastBuildDate><atom:link href="https://sigita-sevceva.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Recently Found Out What Captology Means</title>
+      <link>https://sigita-sevceva.github.io/website/posts/captology/</link>
+      <pubDate>Wed, 16 Dec 2020 20:36:11 +0200</pubDate>
+      
+      <guid>https://sigita-sevceva.github.io/website/posts/captology/</guid>
+      <description>And Did A Small Research on Surveillance Capitalism Background This research was part of my Human Rights, Ethics and Technology study course at TalTech. In this paper, I looked at the notion and examples of captology with the aim to argue whether such infrastructure of surveillance economy is not in tension with freedom in a general sense as well as human rights and individual autonomy, which serve as some of the key foundations of democratic life.</description>
+    </item>
+    
     <item>
       <title>I Made A Machine Learning Model For Analysing Movie Reviews So You Don&#39;t Have To</title>
       <link>https://sigita-sevceva.github.io/website/posts/sentiment-analysis/</link>
