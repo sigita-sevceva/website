@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Design</title>
+    <title>Just Some Digital Humanities Research Projects</title>
     <link>https://sigita-sevceva.github.io/website/</link>
-    <description>Recent content on Deep Design</description>
+    <description>Recent content on Just Some Digital Humanities Research Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2020 13:56:27 +0200</lastBuildDate><atom:link href="https://sigita-sevceva.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 12:46:48 +0200</lastBuildDate><atom:link href="https://sigita-sevceva.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://sigita-sevceva.github.io/website/posts/my-first-post/</link>
-      <pubDate>Fri, 20 Nov 2020 13:56:27 +0200</pubDate>
+      <title>I Made A Machine Learning Model For Analysing Movie Reviews So You Don&#39;t Have To</title>
+      <link>https://sigita-sevceva.github.io/website/posts/sentiment-analysis/</link>
+      <pubDate>Wed, 16 Dec 2020 12:46:48 +0200</pubDate>
       
-      <guid>https://sigita-sevceva.github.io/website/posts/my-first-post/</guid>
-      <description>About Us  Background  text</description>
+      <guid>https://sigita-sevceva.github.io/website/posts/sentiment-analysis/</guid>
+      <description>The Goal Have you ever based your decision on whether to watch a movie or not on other people&amp;rsquo;s reviews and feedback? I have. So naturally, I wanted to create a program that would help me decide. Thus, I created a machine learning model in Python for scalar/degree sentiment analysis to train labeling positive versus negative film reviews, by analysing their features and adjectives, in case anyone wants to use it on a corpus of any kind of film reviews (it might not be so accurate on other types of corpora, as I&amp;rsquo;ve only trained it on films, but you might try!</description>
+    </item>
+    
+    <item>
+      <title>I Tried Analysing Trump&#39;s Speeches</title>
+      <link>https://sigita-sevceva.github.io/website/posts/chapter-5/</link>
+      <pubDate>Wed, 02 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://sigita-sevceva.github.io/website/posts/chapter-5/</guid>
+      <description>And this is how it turned out It all started when I saw a corpus of transcribed pre-election rally speeches by Donald Trump. It sparked an interest in me to run a short overall analysis of it not going into many details or listening to each one of them (that would be tough, to say the least). For anyone interested, the corpus can be found on Kaggle
+For the analysis, I mainly used Natural Language Processing Toolkit libraries.</description>
     </item>
     
   </channel>

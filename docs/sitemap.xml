@@ -3,26 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sigita-sevceva.github.io/website/posts/my-first-post/</loc>
-    <lastmod>2020-11-20T13:56:27+02:00</lastmod>
+    <loc>https://sigita-sevceva.github.io/website/posts/sentiment-analysis/</loc>
+    <lastmod>2020-12-16T12:46:48+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sigita-sevceva.github.io/website/</loc>
-    <lastmod>2020-11-20T13:56:27+02:00</lastmod>
+    <lastmod>2020-12-16T12:46:48+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sigita-sevceva.github.io/website/posts/</loc>
-    <lastmod>2020-11-20T13:56:27+02:00</lastmod>
+    <lastmod>2020-12-16T12:46:48+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sigita-sevceva.github.io/website/posts/chapter-5/</loc>
+    <lastmod>2020-12-02T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sigita-sevceva.github.io/website/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sigita-sevceva.github.io/website/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
