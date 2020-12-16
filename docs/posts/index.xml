@@ -18,10 +18,10 @@
     
     <item>
       <title>I Tried Analysing Trump&#39;s Speeches</title>
-      <link>https://sigita-sevceva.github.io/website/posts/chapter-5/</link>
+      <link>https://sigita-sevceva.github.io/website/posts/natural-language-processing-5/</link>
       <pubDate>Wed, 02 Dec 2020 11:15:58 -0400</pubDate>
       
-      <guid>https://sigita-sevceva.github.io/website/posts/chapter-5/</guid>
+      <guid>https://sigita-sevceva.github.io/website/posts/natural-language-processing-5/</guid>
       <description>And this is how it turned out It all started when I saw a corpus of transcribed pre-election rally speeches by Donald Trump. It sparked an interest in me to run a short overall analysis of it not going into many details or listening to each one of them (that would be tough, to say the least). For anyone interested, the corpus can be found on Kaggle
 For the analysis, I mainly used Natural Language Processing Toolkit libraries.</description>
     </item>
