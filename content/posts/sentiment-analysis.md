@@ -3,6 +3,7 @@ title: "Sentiment Analysis"
 date: 2020-12-16T12:46:48+02:00
 draft: false
 description: "Sentiment Analysis"
+featured_image: "felix-mooneeram-evlkOfkQ5rE-unsplash.jpg"
 title: "I Made A Machine Learning Model For Analysing Movie Reviews So You Don't Have To"
 ---
 

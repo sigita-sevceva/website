@@ -1,7 +1,7 @@
 ---
 date: 2020-12-02T11:15:58-04:00
 description: "Natural Language Processing"
-featured_image: ""
+featured_image: "charles-deluvio-9BXL-Vn22Do-unsplash.jpg"
 tags: []
 title: "I Tried Analysing Trump's Speeches"
 ---
@@ -205,61 +205,61 @@ for topic in range(lda.num_topics):
 
 
     
-![jpg](/output_15_0.jpg)
+![jpg](/output_15_0.png)
 
 
 
 
     
-![jpg](/output_15_1.jpg)
+![jpg](/output_15_1.png)
    
 
 
 
     
-![jpg](/output_15_2.jpg)
+![jpg](/output_15_2.png)
      
 
 
 
     
-![jpg](/output_15_3.jpg)
+![jpg](/output_15_3.png)
       
 
 
 
     
-![jpg](/output_15_4.jpg)
+![jpg](/output_15_4.png)
      
 
 
 
     
-![jpg](/output_15_5.jpg)
+![jpg](/output_15_5.png)
       
 
 
 
     
-![jpg](/output_15_6.jpg)
+![jpg](/output_15_6.png)
     
 
 
 
     
-![jpg](/output_15_7.jpg)
+![jpg](/output_15_7.png)
     
 
 
 
     
-![jpg](/output_15_8.jpg)
+![jpg](/output_15_8.png)
     
 
 
 
     
-![jpg](/output_15_9.jpg)
+![jpg](/output_15_9.png)
     
 
 
@@ -288,58 +288,58 @@ for i in range(0, lda.num_topics): # a loop through all topics
 
 
     
-![jpg](/output_16_0.jpg)
+![jpg](/output_16_0.png)
     
 
 
 
     
-![jpg](/output_16_1.jpg)
+![jpg](/output_16_1.png)
     
 
 
 
     
-![jpg](/output_16_2.jpg)
+![jpg](/output_16_2.png)
     
 
 
 
     
-![jpg](/output_16_3.jpg)
+![jpg](/output_16_3.png)
     
 
 
 
     
-![jpg](/output_16_4.jpg)
+![jpg](/output_16_4.png)
     
 
 
 
     
-![jpg](/output_16_5.jpg)
+![jpg](/output_16_5.png)
     
 
 
 
     
-![jpg](/output_16_6.jpg)
+![jpg](/output_16_6.png)
     
 
 
 
     
-![jpg](/output_16_7.jpg)
+![jpg](/output_16_7.png)
     
 
 
 
     
-![jpg](/output_16_8.jpg)
+![jpg](/output_16_8.png)
     
 
 
 
     
-![jpg](/output_16_9.jpg)
+![jpg](/output_16_9.png)
