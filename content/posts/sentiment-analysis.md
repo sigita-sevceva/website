@@ -27,6 +27,6 @@ The training was really successful and all three of the chosen classifiers have 
 ![confusion_matrix](/Figure2_Confusion_matrix_not_normalized.jpg)
 3. Figure 3: Confusion matrix normalized;
 ![confusion_matrix](/Figure3_Confusion_matrix_normalized.jpg)
-
+The full git repository of the project is available [here.](https://gitlab.com/sigita-sevceva/lab5).
 
 
