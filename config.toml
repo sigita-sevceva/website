@@ -1,4 +1,4 @@
-baseURL = "https://sigita-sevceva.github.io/website"
+baseURL = "https://sigita-sevceva.github.io"
 languageCode = "en-us"
 title = "Just Some Digital Humanities Research Projects"
 publishDir = "docs"
@@ -19,8 +19,9 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  site_logo = "/images/make.png"
+  author = "Sigita Shevceva"
+  description = "Sigita Shevceva's homepage."
   facebook = "https://www.facebook.com/killingsoftness"
   twitter = "https://twitter.com/soundsFierce"
   instagram = "https://www.instagram.com/soundsfierce/"
