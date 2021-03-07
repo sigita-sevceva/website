@@ -19,7 +19,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "/docs/make.png"
+  site_logo = ""
   author = "Sigita Shevceva"
   description = "Sigita Shevceva's homepage."
   facebook = "https://www.facebook.com/killingsoftness"
