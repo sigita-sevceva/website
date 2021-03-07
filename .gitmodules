@@ -3,4 +3,4 @@
 	url = https://github.com/somratpro/somrat.git
 [submodule "themes/ananke"]
 	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
+	url = git@github.com:sigita-sevceva/website.git
