@@ -1,4 +1,4 @@
-baseURL = "https://sigita-sevceva.github.io"
+baseURL = "https://sigita-sevceva.github.io/website/"
 languageCode = "en-us"
 title = "Just Some Digital Humanities Research Projects"
 publishDir = "docs"
